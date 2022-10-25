@@ -1,0 +1,43 @@
+﻿  PlateRecognition.cpp
+f:\program\project\window1\window1\platerecognition.cpp(85): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\program\project\window1\window1\platerecognition.cpp(261): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(262): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(263): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(264): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(268): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(269): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(270): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+f:\program\project\window1\window1\platerecognition.cpp(271): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  window1.vcxproj -> F:\program\project\window1\x64\Debug\window1.exe
