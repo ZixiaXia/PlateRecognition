@@ -14,7 +14,11 @@ An algorithm for automatic plate recognition. The project was accomplished in 20
 
 - vertical projection
 
-![image](https://user-images.githubusercontent.com/44375942/197949322-1617c847-009c-44ef-9a4f-f72c38833e87.png)
+![image](https://user-images.githubusercontent.com/44375942/197950051-8e2257e7-02a5-4888-a0ca-9cb899d458d1.png)
+
+![image](https://user-images.githubusercontent.com/44375942/197950137-69b22530-b026-4f73-990a-e3044de0f56b.png)
+
+![image](https://user-images.githubusercontent.com/44375942/197950183-7e1e03d8-408d-437f-914b-74e34d1aa393.png)
 
 - SVM recognition 
 
