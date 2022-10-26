@@ -2,7 +2,7 @@
 
 An algorithm for automatic plate recognition. The project was accomplished in 2018 for Specialized Course. 
 
-#### Steps
+#### 3 Steps
 
 - pre-processing: Histogram Equalization， Hough Transform, Perspective Transformation
 
