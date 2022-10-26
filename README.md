@@ -4,7 +4,7 @@ An algorithm for automatic plate recognition. The project was accomplished in 20
 
 #### 3 Steps
 
-- pre-processing: Histogram Equalization， Hough Transform, Perspective Transformation
+- Pre-processing: histogram equalization，hough transform, perspective tansformation
 
 ![image](https://user-images.githubusercontent.com/44375942/197948854-51d6e832-35f4-4ea5-af87-086bd2e5cd02.png)
 
@@ -12,7 +12,7 @@ An algorithm for automatic plate recognition. The project was accomplished in 20
 
 ![image](https://user-images.githubusercontent.com/44375942/197949032-9d17c717-eee7-4524-95db-0ec5403215b7.png)
 
-- vertical projection to split every char
+- Vertical projection to split every char
 
 ![image](https://user-images.githubusercontent.com/44375942/197950051-8e2257e7-02a5-4888-a0ca-9cb899d458d1.png)
 
